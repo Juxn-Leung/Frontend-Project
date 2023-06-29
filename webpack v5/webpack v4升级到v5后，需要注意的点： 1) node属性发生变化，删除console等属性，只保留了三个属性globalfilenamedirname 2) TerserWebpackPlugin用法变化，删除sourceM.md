@@ -1,0 +1,1 @@
+webpack v4升级到v5后，需要注意的点： 1) node属性发生变化，删除console等属性，只保留了三个属性global/filename/dirname 2) TerserWebpackPlugin用法变化，删除sourceMap 其他：webpck-merge的用法发生了变化，使用解构方式引入

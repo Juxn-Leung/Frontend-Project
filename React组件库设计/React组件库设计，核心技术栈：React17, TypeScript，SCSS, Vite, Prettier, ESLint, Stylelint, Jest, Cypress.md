@@ -1,0 +1,1 @@
+React组件库设计，核心技术栈：React17, TypeScript，SCSS, Vite, Prettier, ESLint, Stylelint, Jest, Cypress

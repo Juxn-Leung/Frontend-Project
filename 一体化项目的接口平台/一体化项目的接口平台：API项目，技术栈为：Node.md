@@ -1,0 +1,1 @@
+一体化项目的接口平台：API项目，技术栈为：Node.js + Koa2（路由、中间件） + webpack + babel + mongoose（mongoDB）+ redis，特点：按照章节视频进行commit提交，可以使用git reset --hard [hash]，回退到对应的位置查看代码。

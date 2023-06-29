@@ -1,0 +1,1 @@
+Electron桌面端跨端项目，技术栈：Electron，vite 2.x，vue3 全家桶，Typescript，ESlint，CI&CD打包，AutoUpdate
